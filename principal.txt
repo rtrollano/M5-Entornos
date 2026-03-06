@@ -1,3 +1,4 @@
 Vamos a crear este archivo en ambas ramas.
 
 En cambio esta rama es para Trollano.
+Raul es el encargado de mantener esta rama.
